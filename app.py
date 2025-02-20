@@ -11,4 +11,4 @@ for arquivo in lista_arquivos:
     if ".pdf":
         ferramenta.append(f"arquivos/{arquivo}")
 
-ferramenta.write("PDF Final.pdf")
+ferramenta.write("arquivo_pronto/PDF Final.pdf")
